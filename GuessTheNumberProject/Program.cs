@@ -11,5 +11,10 @@ namespace GuessTheNumberProject
         static void Main(string[] args)
         {
         }
+
+        void Run()
+        {
+            Console.WriteLine("TEST TEST");
+        }
     }
 }
